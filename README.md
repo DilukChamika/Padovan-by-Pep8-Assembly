@@ -2,6 +2,6 @@
 <br/>
 <h3>This repo has the code files for Padovan Sequence in Pep/8 Assembly Language and C++ Language. </h3>
 <br/><br/>
-<a href="https://www.geeksforgeeks.org/padovan-sequence/"> Click Here </a> to know about Padovan Sequence (GeekforGeeks definition).
+<a href="https://www.geeksforgeeks.org/padovan-sequence/" target="_blank"> Click Here </a> to know about Padovan Sequence (GeekforGeeks definition).
 <br/><br/>
 <p>Codes are developed by Diluk Chamika</p>
